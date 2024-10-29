@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 80%;
+    text-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff, 0 0 40px #0ff;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('assets/wallpaper.jpg');  
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 80%;
+    max-width: 350px;
+}
+
+.top-row, .middle-row {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.left-column, .right-column {
+    flex: 1;
+}
+
+.center-box {
+    flex: 2;
+    height: 100%;
+}
+
+.box {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    flex: 1;
+    aspect-ratio: 1;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.box:hover {
+    transform: scale(1.05);
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.7);
+}
+
+.vision-1, .vision-2, .vision-3, 
+.vision-4, .vision-5, .vision-6, 
+.vision-7, .vision-8, .vision-9, 
+.vision-main {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.vision-1 { background-image: url('assets/vision1.jpg'); }
+.vision-2 { background-image: url('assets/vision2.jpg'); }
+.vision-3 { background-image: url('assets/vision3.jpg'); }
+.vision-4 { background-image: url('assets/vision4.jpg'); }
+.vision-5 { background-image: url('assets/vision5.jpg'); }
+.vision-6 { background-image: url('assets/vision6.jpg'); }
+.vision-7 { background-image: url('assets/vision7.jpg'); }
+.vision-8 { background-image: url('assets/vision8.jpg'); }
+.vision-9 { background-image: url('assets/vision9.jpg'); }
+.vision-main { background-image: url('assets/vision-main.jpg'); }
