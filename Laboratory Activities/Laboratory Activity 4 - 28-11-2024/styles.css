@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('assets/wallpaper.jpg') center/cover no-repeat;
+}
+
+h1 {
+    font-weight: bold;
+    color: white;
+    letter-spacing: -5px;
+    font-size: 6em;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+p {
+    color: black;
+}
+
+.text {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    gap: 20px;
+    width: 80%;
+    max-width: 700px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.top-row, .bottom-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    height: 150px;
+    width: 200px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.box:hover {
+    transform: scale(1.05);
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.7);
+}
+
+.fact-1, .fact-2, .fact-3 {
+    background-color: aliceblue;
+}
+
+.vision-1, .vision-2, .vision-3, .vision-main {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.vision-1 { background-image: url('assets/nineteen.jpeg'); }
+.vision-2 { background-image: url('assets/midnights.jpeg'); }
+.vision-3 { background-image: url('assets/jom.jpg'); }
+.vision-main { background-image: url('assets/vision-main.jpg'); }
+
+#factButton, #fact-container {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s ease, box-shadow 0.3s;
+}
+
+#factButton {
+    font-size: 12px;
+    background-color: rgb(237, 100, 100);
+    padding: 12px 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+#factButton:hover {
+    background-color: #554fc4;
+    transform: scale(1.05);
+}
+
+#fact-container {
+    font-size: 16px;
+    background-color: lightcoral;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#fact-container:hover {
+    background-color: #554fc4;
+    transform: scale(1.05);
+}
