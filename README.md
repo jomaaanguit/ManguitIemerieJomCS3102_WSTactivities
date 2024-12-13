@@ -86,12 +86,7 @@ Included below is a brief documentation that delves into the concepts and method
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20145431.png" width="400px"></td>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20145438.png" width="400px"></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20145456.png" width="400px"></td>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20145514.png" width="400px"></td>
+      <td><img src="https://github.com/jomaaanguit/ManguitIemerieJomCS3102_WSTactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%202%20%E2%80%93%2029-10-2024/visionboard-output.png"></td>
     </tr>
   </table>
 </div>
@@ -132,12 +127,7 @@ Included below is a brief documentation that delves into the concepts and method
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20160926.png" width="400px"></td>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20161007.png" width="400px"></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20161027.png" width="400px"></td>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20161056.png" width="400px"></td>
+      <td><img src="https://github.com/jomaaanguit/ManguitIemerieJomCS3102_WSTactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%203%20–%2018-11-2024/word-sentence-ctr-output.png"></td>
     </tr>
   </table>
 </div>
@@ -183,14 +173,7 @@ button.addEventListener('click', () => {
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20182125.png" width="400px"></td>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20182134.png" width="400px"></td>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20182149.png" width="400px"></td>
-    </tr>
-    <tr>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20182153.png" width="400px"></td>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20182216.png" width="400px"></td>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-12%20182221.png" width="400px"></td>
+      <td><img src="https://github.com/jomaaanguit/ManguitIemerieJomCS3102_WSTactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%204%20-%2028-11-2024/personal-page-output.jpg"></td>
     </tr>
   </table>
 </div>
