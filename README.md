@@ -44,7 +44,7 @@ Included below is a brief documentation that delves into the concepts and method
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/Screenshot%202024-12-11%20150033.png"></td>
+      <td><img src="https://github.com/jomaaanguit/ManguitIemerieJomCS3102_WSTactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%201%20%7B05%7D-%7B09%7D-%7B2024%7D/html-table-output.png"></td>
     </tr>
   </table>
 </div>
