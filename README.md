@@ -154,7 +154,7 @@ button.addEventListener('click', () => {
 <br>
 
 ### <a name="lab4"></a>
-## ðŸ ƒ Laboratory 4 | Refined Exercise #2
+## 🌀 Laboratory 4 | Refined Exercise #2
 
 <b>Lesson(s): </b> Responsive Web Design<br><br>
 <b>Agenda: </b> Enhance the Exercise #2 activity in Web Systems and Technologies. Feel free to add animations, enhance the color palette, fonts, and add more details aside from personal, contact, and basic info.
