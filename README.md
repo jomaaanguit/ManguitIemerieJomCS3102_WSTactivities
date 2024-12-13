@@ -4,7 +4,7 @@
 </div>
 
 <details>
-<summary><h2>ðŸ“ Contents</h2></summary>
+<summary><h2>🌀 Contents</h2></summary>
  
 - [Overview](#overview)
 - [Laboratory 1](#lab1)
@@ -19,7 +19,7 @@
 </details>
 
 ### <a name="overview"></a>
-## ðŸ ± Overview
+## 🌀 Overview
 
 <div align="justify">
 This repository contains laboratory deliverables for IT 314: Web Systems and Technologies. It showcases web development activities demonstrating the practical application of course concepts and techniques.
@@ -29,7 +29,7 @@ The documentation provides an overview of the coding practices, methodologies, a
 <br><br>
 
 ### <a name="lab1"></a>
-## ðŸ“… Laboratory 1 | Class Schedule
+## 🌀 Laboratory 1 | Class Schedule
 
 <b>Lesson(s): </b>HTML Tables, HTML Semantics<br><br>
 <b>Agenda: </b> Create an HTML file that contains sections for your class schedule visualized by an HTML table and a footer section that contains the list of courses (course code and description).<br><br>
@@ -51,22 +51,22 @@ The documentation provides an overview of the coding practices, methodologies, a
 </div>
 
 <h3>Important Notes:</h3>
-â€¢ <b>&lt;th table&gt;</b> represents tabular dataâ€”that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data.<br><br>
+🌀 <b>&lt;th table&gt;</b> represents tabular dataâ€”that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data.<br><br>
 <pre><code>&lt;table&gt;
   <i>&lt;!-- Your table content here... --&gt;</i>
 &lt;/table&gt;</code></pre>
-â€¢ <b>&lt;th rowspan&gt;</b> specifies how many rows a table cell should span. Refer to the PHY 101 schedule on Tuesday and observe how it spans to three time periods.<br><br>
+🌀 <b>&lt;th rowspan&gt;</b> specifies how many rows a table cell should span. Refer to the PHY 101 schedule on Tuesday and observe how it spans to three time periods.<br><br>
 <pre><code>&lt;td rowspan="3"&gt;PHY 101&lt;/td&gt;</code></pre>
-â€¢ <b>&lt;colspan&gt;</b> specifies how many columns a table cell should span. Refer to the lunch schedule in the image and observe how it spans to three days.<br><br>
+🌀 <b>&lt;colspan&gt;</b> specifies how many columns a table cell should span. Refer to the lunch schedule in the image and observe how it spans to three days.<br><br>
 <pre><code>&lt;td colspan="3"&gt;LUNCH&lt;/td&gt;</code></pre>
-â€¢ <b>&lt;th footer&gt;</b> defines a footer for a document or section. In practical use, it typically contains authorship information, copyright information, contact information, sitemap, back-to-top links, and related documents.<br><br>
+🌀 <b>&lt;th footer&gt;</b> defines a footer for a document or section. In practical use, it typically contains authorship information, copyright information, contact information, sitemap, back-to-top links, and related documents.<br><br>
 <pre><code>&lt;footer&gt;
   <i>&lt;! -- Your footer content here... --&gt;</i>
 &lt;/footer&gt;</code></pre>
 <br>
 
 ### <a name="lab2"></a>
-## âœˆï¸ Laboratory 2 | Vision Board
+## 🌀 Laboratory 2 | Vision Board
 
 <b>Lesson(s): </b>HTML, CSS Flexbox<br><br>
 <b>Agenda: </b> Create an personalized vision board webpage using basic HTML and CSS Flexbox. The vision board will include images, inspirational quites, and goals, allowing students to visually represent their aspirations.<br><br>
@@ -93,9 +93,9 @@ The documentation provides an overview of the coding practices, methodologies, a
 </div>
 
 <h3>Important Notes:</h3>
-â€¢ The <b>class = "yourClassName"</b> associates the <b>&lt;div&gt;</b> element with the <b>.yourClassName</b> style in the CSS.<br><br>
-â€¢ <b>display: flex;</b> sets an element as a flex container, enabling the use of the Flexbox layout model for its child elements while <b>flex-direction: row;</b> arranges the flex items in a row (horizontally).<br><br>
-â€¢ <b>justify-content: center;</b> aligns and centers flex items horizontally along the main axis (row is the default value) while <b>align-items: center;</b> aligns and centers flex items vertically along the cross-axis (column is the default value). Refer to the application icons at the bottom of the webpage and observe how the icons are displayed in a row, and are cleanly centered both horizontally and vertically inside the icon container.<br><br>
+🌀 The <b>class = "yourClassName"</b> associates the <b>&lt;div&gt;</b> element with the <b>.yourClassName</b> style in the CSS.<br><br>
+🌀 <b>display: flex;</b> sets an element as a flex container, enabling the use of the Flexbox layout model for its child elements while <b>flex-direction: row;</b> arranges the flex items in a row (horizontally).<br><br>
+🌀 <b>justify-content: center;</b> aligns and centers flex items horizontally along the main axis (row is the default value) while <b>align-items: center;</b> aligns and centers flex items vertically along the cross-axis (column is the default value). Refer to the application icons at the bottom of the webpage and observe how the icons are displayed in a row, and are cleanly centered both horizontally and vertically inside the icon container.<br><br>
 <pre><code>.app-container {
   <i>/* Styling for the app icons container... */</i>
   display: flex;
@@ -111,7 +111,7 @@ The documentation provides an overview of the coding practices, methodologies, a
 <br>
 
 ### <a name="lab3"></a>
-## ðŸ”¢ Laboratory 3 | Word and Sentence Counter
+## 🌀 Laboratory 3 | Word and Sentence Counter
 
 <b>Lesson(s): </b>JavaScript, HTML, CSS<br><br>
 <b>Agenda: </b> Create a tool that counts the number of words and sentences in a given text. The tool should include a text area for user input and dynamically update the word and sentence counts as the user types. Updates should occur automatically whenever the content changes.
@@ -133,18 +133,18 @@ The documentation provides an overview of the coding practices, methodologies, a
   </table>
 </div>
 <h3>Important Notes:</h3>
-â€¢ <b>&lt;textarea&gt;</b> is used to create a multi-line input field where users can enter large amounts of text, such as comments or descriptions. <b>rows </b>specifies the number of visible text lines in the text area while <b>cols</b> specifies the width of the text area in terms of the number of visible character columns. <b>placeholder</b> provides a hint or instruction to the user, displayed inside the text area as light gray text until the user starts typing.
+🌀 <b>&lt;textarea&gt;</b> is used to create a multi-line input field where users can enter large amounts of text, such as comments or descriptions. <b>rows </b>specifies the number of visible text lines in the text area while <b>cols</b> specifies the width of the text area in terms of the number of visible character columns. <b>placeholder</b> provides a hint or instruction to the user, displayed inside the text area as light gray text until the user starts typing.
 <br><br>
 <pre><code>&lt;textarea rows="10" cols="50" placeholder="Enter your text here..."&gt;&lt;/textarea&gt;</code></pre>
-â€¢ <b>trim()</b> removes whitespaces from both sides of a string. This ensures that any leading or trailing spaces in the user's input are removed before further processing.<br><br>
+🌀 <b>trim()</b> removes whitespaces from both sides of a string. This ensures that any leading or trailing spaces in the user's input are removed before further processing.<br><br>
 <pre><code>const text = textInput.value.trim();</code></pre>
-â€¢ <b>split()</b> splits a string into an array of substrings based on a specified delimiter (regular expression or string). In the code below, <b>split(/\s+/)</b> method splits the text into an array of words based on one or more whitespace characters <b>(\s+)</b>, which includes spaces, tabs, and newlines.<br><br>
+🌀 <b>split()</b> splits a string into an array of substrings based on a specified delimiter (regular expression or string). In the code below, <b>split(/\s+/)</b> method splits the text into an array of words based on one or more whitespace characters <b>(\s+)</b>, which includes spaces, tabs, and newlines.<br><br>
 <pre><code>const words = text.split(/\s+/).filter(word => word.length > 0);</code></pre>
-â€¢ <b>length</b> returns the number of elements in an array or the number of characters in a string. In the code below, the <b>sentences.length</b> property returns the number of sentences in the array created by <b>split()</b>. This gives the total sentence count.<br><br>
+🌀 <b>length</b> returns the number of elements in an array or the number of characters in a string. In the code below, the <b>sentences.length</b> property returns the number of sentences in the array created by <b>split()</b>. This gives the total sentence count.<br><br>
 <pre><code>const sentenceCount = sentences.length;</code></pre>
-â€¢ <b>filter</b> creates a new array with all elements that pass a test provided by a function. After splitting the text into an array of words, the <b>filter(word => word.length > 0)</b> method removes any empty strings (which could occur if there were extra spaces in the input) from the array of words. This ensures that only actual words are counted.<br><br>
+🌀 <b>filter</b> creates a new array with all elements that pass a test provided by a function. After splitting the text into an array of words, the <b>filter(word => word.length > 0)</b> method removes any empty strings (which could occur if there were extra spaces in the input) from the array of words. This ensures that only actual words are counted.<br><br>
 <pre><code>const sentences = text.split(/[.!?]+/).filter(sentence => sentence.trim().length > 0);</code></pre>
-â€¢ <b>addEventListener</b> is used to attach an event handler (a function) to a specified event on an HTML element. This allows you to respond to user interactions or other events that occur on the page, such as clicks, keypresses, mouse movements, etc.<br><br>
+🌀 <b>addEventListener</b> is used to attach an event handler (a function) to a specified event on an HTML element. This allows you to respond to user interactions or other events that occur on the page, such as clicks, keypresses, mouse movements, etc.<br><br>
 <pre><code>// Sample usage of addEventListener to a button in JavaScript
 const button = document.getElementById('myButton');
 button.addEventListener('click', () => {
@@ -180,24 +180,24 @@ button.addEventListener('click', () => {
 </div>
  
 <h3>Important Notes:</h3>
-â€¢ <b>document.getElementbyId</b> retrieves an HTML element by its id.<br><br>
+🌀 <b>document.getElementbyId</b> retrieves an HTML element by its id.<br><br>
 <pre><code>&lt;input type="text" id="nameInput" placeholder="enter here â‹†ï½¡Â°âœ©"&gt;</code></pre>
 <pre><code>const name = document.getElementById('nameInput').value;</code></pre>
-â€¢ <b>document.getElementById('elementName').innerText</b> retrieves or sets the text content of an element, excluding any HTML tags. Refer to the second image in the preview.<br><br>
+🌀 <b>document.getElementById('elementName').innerText</b> retrieves or sets the text content of an element, excluding any HTML tags. Refer to the second image in the preview.<br><br>
 <pre><code>document.getElementById('textPopupContent').innerText = `hello there, ${name}!`;</code></pre>
-â€¢ <b>document.getElementById('elementName').style.display</b> accesses the style property of an element and specifically the display style and allows toggling visibility of elements (block, none, etc.).<br><br>
+🌀 <b>document.getElementById('elementName').style.display</b> accesses the style property of an element and specifically the display style and allows toggling visibility of elements (block, none, etc.).<br><br>
 <pre><code> // This is used to hide the popup.
 document.getElementById('namePopup').style.display = 'none';
 </code></pre>
-â€¢ A <b>function</b> is a reusable block of code designed to perform a specific task. It can take arguments, perform operations, and return results.<br><br>
+🌀 A <b>function</b> is a reusable block of code designed to perform a specific task. It can take arguments, perform operations, and return results.<br><br>
 <pre><code>function submitName() {
     const name = document.getElementById('nameInput').value;
     // Rest of the logic...
 }
 </code></pre>
-â€¢ <b>innerHTML</b> retrieves or sets the HTML content inside an element. this allows for rendering complex HTML structures. The code below dynamically updates the content of <i>popupContent</i> with the HTML fetched from the specified file.<br><br>
+🌀 <b>innerHTML</b> retrieves or sets the HTML content inside an element. this allows for rendering complex HTML structures. The code below dynamically updates the content of <i>popupContent</i> with the HTML fetched from the specified file.<br><br>
 <pre><code>popupContent.innerHTML = html;</code></pre>
-â€¢ <b>Media queries</b> allow you to apply styles based on the characteristics of the device displaying the content, such as screen width, height, resolution, or orientation. This is essential for responsive design, where the layout adapts to different screen sizes (e.g., mobile, tablet, desktop).<br><br>
+🌀 <b>Media queries</b> allow you to apply styles based on the characteristics of the device displaying the content, such as screen width, height, resolution, or orientation. This is essential for responsive design, where the layout adapts to different screen sizes (e.g., mobile, tablet, desktop).<br><br>
 <pre><code>/* Default styles (applies to all screen sizes) */
 body {
     font-size: 16px;
@@ -222,17 +222,17 @@ body {
 <br>
 
 ### <a name="profile"></a>
-## ðŸ“ Student Profile
+## 🌀 Student Profile
 <div align="center">
 <table style="width: 100%; table-layout: auto;">
   <tr>
     <th style="width: 80px; text-align: center;">
-      <img src="https://i.ibb.co/MZMmvPN/Passport-Picture-1-removebg-preview.png" width="55%">
+      <img src="https://scontent.fmnl37-2.fna.fbcdn.net/v/t39.30808-6/468353909_8664280840359604_1350598157206156677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFtDb-UEhMPtiprfBbJpZZnvVNIAKXy6Nu9U0gApfLo2_QuBmRV91r95OKh7xFiaOXRT6WdY1bs9ImHnVNsW1IM&_nc_ohc=OIZb3ZEzkEsQ7kNvgHblfiq&_nc_zt=23&_nc_ht=scontent.fmnl37-2.fna&_nc_gid=A5FoRLtk_FYjfrhTVVMStUU&oh=00_AYArdWMXZ7XRRBkynPPkHMYB_awNCBZR1VFQhhzJMYRoXQ&oe=6761CAF6" width="55%">
     </th>
     <td>
-      <div align="left"><strong>Vince Clyde S. Banaag</strong><br>
-        âžŸ CS-3102<br>
-        âžŸ 22-06373<br>
+      <div align="left"><strong>Iemerie Jom C. Manguit</strong><br>
+        🌀 CS-3102<br>
+        🌀 22-09658<br>
       </div>
     </td>
   </tr>
@@ -241,9 +241,8 @@ body {
 <br>
 
 ### <a name="acknowledgement"></a>
-## ðŸ©· Acknowledgement
-I would like to express my heartfelt gratitude to our instructor in this course, Ms. Fatima Marie Agdon, MSCS, for her unfaltering hard work, dedication, and genuine passion for teaching. She has consistently gone above and beyond to ensure that each of her students not only understands the complexities of the subject matter but also develops the confidence and skills necessary to excel in their academic journey.
+## 🌀 Acknowledgement
 
-As an avid fan of the PokÃ©mon franchise, I have often drawn inspiration from the qualities of its iconic protagonistsâ€”their determination, resilience, and ability to overcome any challenge or obstacle. In Ms. Fatima Marie Agdon, I see those same qualities come to life. She embodies the unwavering strength and steadfast resolve of a <img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/image-removebg-preview%20(1)%20(1).png" height="15px"> type, tackling even the toughest of challenges with grace and fortitude. At the same time, she possesses the nurturing warmth and compassion of a <img src="https://github.com/vinceclyde/BanaagVinceClydeCS3102_WSTactivities/blob/main/assets/image-removebg-preview%20(2).png" height="15px"> type, always considerate and supportive, ensuring her students feel encouraged and valued every step of the way.
+I want to thank Ms. Fatima Marie Agdon, MSCS, for her incredible dedication and support throughout this course. Her passion for teaching and genuine care for her students have made a huge impact on us. She’s been patient, encouraging, and always willing to go the extra mile to help us succeed. Thank you for inspiring us and believing in our potential, Ma’am!
 
 </div>
