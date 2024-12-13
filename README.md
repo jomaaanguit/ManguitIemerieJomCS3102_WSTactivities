@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/YdMp6Pp/ezgif-6-6b3e434000.gif" height="100"> &nbsp;
-  <img src="https://see.fontimg.com/api/rf5/DYJX1/MTYyM2I1ZkCMzCdEciz83ZVM9LSpdTaEmByC1mokQub3Rm/V2ViIFN5c3RlbXMgYW5kIFRlY2hub2xvZ2llcw/gome-pixel.png?r=fs&h=98&w=1500&fg=000000&bg=FFFFFF&tb=1&s=65" height="45" >
+  <h1>Web Systems and Technologies</h1>
   <h2>Laboratory Activities Repository</h2>
 </div>
 
